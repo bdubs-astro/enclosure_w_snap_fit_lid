@@ -6,9 +6,7 @@
 <img src = "./docs_for_README/Fusion_logo_new_v3.jpg" width = "300"/>
 -->
 
-<br>
-
-I created a **Autodesk Fusion** design for a generic, scalable enclosure with a snap-fit lid. The design is divided into two components: *base* and *lid*.
+I created an **Autodesk Fusion** design for a generic, scalable enclosure with a snap-fit lid. The design is divided into two components: *base* and *lid*.
 
 <img src = "./docs_for_README/browser.png" width = "250"/>
 
