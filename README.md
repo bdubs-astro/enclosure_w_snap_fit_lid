@@ -1,10 +1,14 @@
 <h2>3D-Printed Enclosure w/ Snap-Fit Lid</h2>
 
-<img src = "./docs_for_README/F360_logo.png" width = "200"/>
+<img src = "./docs_for_README/Fusion_logo_new.jpg" width = "160"/>
+
+<!--
+<img src = "./docs_for_README/Fusion_logo_new_v3.jpg" width = "300"/>
+-->
 
 <br>
 
-I created a **Fusion 360** design for a generic, scalable enclosure with a snap-fit lid. The design is divided into two components: *base* and *lid*.
+I created a **Autodesk Fusion** design for a generic, scalable enclosure with a snap-fit lid. The design is divided into two components: *base* and *lid*.
 
 <img src = "./docs_for_README/browser.png" width = "250"/>
 
